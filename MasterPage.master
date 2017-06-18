@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head id="Head1" runat="server">
+        <title>ATM2 in ASP.NET</title>
+    </head>
+    <body>
+        <form id="form2" runat="server">
+            <div id="header">
+                <h1 style="text-align:center; color:red">ATM2 in ASP.NET</h1>
+            </div>
+            
+            <div id="content">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="footer">
+                <h6>By: Tim Osse</h6>
+                <h6>Student User Name: osse0005</h6>
+                <h6>E-Mail: osse0005@algonquinlive.com</h6>
+            </div>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ATM">
+  <DataContextMoniker Name="/ATMDataContext" />
+  <nestedChildShapes>
+    <classShape Id="16fd41ac-d5c9-4d1c-a1ca-4bb3ac13f4e2" absoluteBounds="4.125, 3.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/ATMDataContext/TransactionType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da0aa775-e88b-4030-b353-d18517374526" absoluteBounds="4.1400000000000006, 3.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1ad26db9-1441-4754-8044-458eb6a50b08" absoluteBounds="4.125, 1.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ATMDataContext/Transaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d05aa44b-aab9-4489-8050-9c4d3830191c" absoluteBounds="4.14, 1.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94d5c78e-226a-4e29-9c67-9f6ceb66db81" absoluteBounds="1.5, 1.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/ATMDataContext/People" />
+      <nestedChildShapes>
+        <elementListCompartment Id="23046ee7-679e-4428-8555-c5fba328340e" absoluteBounds="1.5150000000000001, 2.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

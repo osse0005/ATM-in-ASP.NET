@@ -1,0 +1,49 @@
+﻿body 
+{
+    font-size: large;
+    color: Black;
+    background-image:url('background.jpg');
+}
+
+#header
+{
+    height: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: Green;
+    color: White;
+}
+
+#menu
+{
+    width: 800px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+    color: red;
+}
+
+#content
+{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+}
+
+#footer
+{
+    height: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: Green;
+    color: White;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+}
